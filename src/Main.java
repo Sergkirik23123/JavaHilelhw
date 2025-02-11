@@ -4,8 +4,7 @@ public class Main {
         circle.printInfo();
     }
 }
-
-
+// ужасный код
 class Book {
     String title;
     String author;
